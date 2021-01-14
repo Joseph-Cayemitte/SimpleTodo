@@ -32,7 +32,7 @@ GIF created with android record software.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Biggest problem was removing the items in the list. When i would try to remove via long press the, the app would crash. It was doing this becuase i accidentally left itemsAddapter as a final variable.
 
 ## License
 
